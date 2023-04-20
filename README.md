@@ -1,2 +1,5 @@
 # RulestexEditor
-A Rich Text Editor With Modern Features Built In JavaScript
+
+![Rulestex Editor Logo](logo.png)
+
+A **Rich Text Editor** with modern features, and simplified for web
