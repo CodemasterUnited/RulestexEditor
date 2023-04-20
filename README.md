@@ -13,10 +13,19 @@ A modern **Rich Text Editor** for web with clean and beautiful UI
 - Lightweight
 
 
-### Toolbar Features
+### Toolbar Buttons
 - Bold
 - Italic
 - Underline
 - Strikethrough
 - Image
 - Video / Audio
+- Text Align
+- Headings
+- Font Size
+- Font Color
+- Font Background Color
+- Font Family
+- Source Code Editing
+- Horizontal Rule
+- And Many More...
