@@ -2,4 +2,9 @@
 
 ![Rulestex Editor Logo](logo.png)
 
-A **Rich Text Editor** with modern features, and simplified for web
+A modern **Rich Text Editor** for web with clean and beautiful UI
+
+### Features 
+- Clean & Beautiful UI
+
+- Plugin & Theme System
